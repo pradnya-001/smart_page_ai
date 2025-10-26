@@ -1,0 +1,14 @@
+flask
+flask-cors
+python-dotenv
+beautifulsoup4
+youtube-transcript-api
+requests
+pypdf
+langchain-google-genai
+langchain
+faiss-cpu
+gunicorn
+langchain-community
+langchain-text-splitters
+langchain-core
