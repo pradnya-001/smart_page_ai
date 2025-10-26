@@ -180,6 +180,9 @@ def ask_question():
     except Exception as e:
         print(f"Error asking question: {e}")
         return jsonify({"error": str(e)}), 500
+    
+
+    
 
 # --- 11. Run the App ---
 if __name__ == '__main__':
